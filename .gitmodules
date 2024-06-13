@@ -1,0 +1,3 @@
+[submodule "hass-n8n"]
+	path = hass-n8n
+	url = https://github.com/umeku/hass-n8n
